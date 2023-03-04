@@ -14,11 +14,12 @@ class Projects extends Component {
     let detailsModalShow = (data) => {
       this.setState({ detailsModalShow: true, deps: data });
     };
-
+    console.log(this.props)
     let detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.projects;
       var projects = this.props.resumeProjects.map(function (projects) {
+        console.log(projects)
         return (
           <div
             className="col-sm-12 col-md-6 col-lg-4"
