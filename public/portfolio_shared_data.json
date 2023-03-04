@@ -35,13 +35,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "90"
         },
         {
@@ -50,8 +50,8 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Django",
+          "class": "devicon-django-plain",
           "level": "75"
         },
         {
@@ -65,8 +65,8 @@
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
           "level": "60"
         }
       ]
