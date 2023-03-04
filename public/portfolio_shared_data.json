@@ -1,20 +1,26 @@
 {
     "basic_info": {
       "name": "Phillip Chaplin",
+      "title": "Full Stack Python and Django Developer with experience in React, Node.js, Bootstrap, Amazon RDS, CSS, MongoDB, and PostgreSQL. I have a passion for building scalable and secure web applications using the latest development tools and methodologies.",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/pchapl1",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/phillip-chaplin-501673152/",
+          "class": "fab fa-linkedin-in"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "phil-about-us.jpg"
     },
     "skills": {
       "icons": [
