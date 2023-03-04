@@ -11,36 +11,35 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Platinum Painting",
+        "startDate": "2021",
+        "description": "The most expanded application I had opportunity to work with. Has the ability to store customer, estimate and user information as well as the ability to calculate the cost of any interior, exterior or gutter job the estimator is tasked with performing. I utilized technology and frameworks including Python, Django, Javscript, Ajax, CSS, Bootstrap, PostgreSQL, AWS Elastic Beanstalk, Amazon RDS and Route53.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/platpaint.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "platpaint.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-django-plain",
+            "name": "Django"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JS"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Ruth.less Photography",
+        "startDate": "2023",
+        "description": "A group project in which we built a photography website.  I was responsible for appointment scheduling and scrolling as well as toggling between different sections on our gallery page.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/Ruthless.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,9 +54,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Final Project Placeholder",
+        "startDate": "2023",
+        "description": "This is a placeholder for my final project",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -81,37 +80,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Platinum Painting",
+        "title": "Full Stack Python Developer",
+        "years": "04.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
+          "Django",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Ajax",
+          "Amazon RDS",
+          "Elastic Beanstalk",
+          "Route53"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Nestle Dreyer's",
+        "title": "Automation and Controls Engineer",
+        "years": "04.2019 - 06.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Control Logix"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "RSLogix",
+          "SQL"
         ]
       }
     ]
