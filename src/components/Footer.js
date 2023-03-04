@@ -4,7 +4,6 @@ class Footer extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
       var networks = this.props.sharedBasicInfo.social.map(function (network) {
-        console.log(network)
         return (
           <span key={network.name} className="m-4">
             <a href={network.url} target="_blank" rel="noopener noreferrer">
@@ -32,7 +31,7 @@ class Footer extends Component {
               >
                 <span
                   className="iconify language-icon mr-5"
-                  data-icon="twemoji-flag-for-flag-united-kingdom"
+                  // data-icon="twemoji-flag-for-flag-united-kingdom"
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
                 ></span>
@@ -48,7 +47,7 @@ class Footer extends Component {
               >
                 <span
                   className="iconify language-icon"
-                  data-icon="twemoji-flag-for-flag-poland"
+                  // data-icon="twemoji-flag-for-flag-poland"
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
                 ></span>
